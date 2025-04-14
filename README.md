@@ -22,7 +22,7 @@ I've used different technologies such as Python, Amazon Web Services (AWS), Apac
 ## Dataset Used
 You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
 
-Here is the dataset which I used- https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
+Here is the dataset which I used- https://github.com/harshit-k17/StockMarketAnalysis_Kafka_AWS/blob/main/indexProcessed.csv
 
 
 
